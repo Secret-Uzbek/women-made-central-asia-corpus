@@ -8,10 +8,10 @@ This repository stores the deeper corpus behind the public-facing project: raw s
 
 ## Structure
 
-- `corpus/raw/` â untouched collected materials
-- `corpus/processed/` â cleaned or normalized materials
-- `metadata/` â source maps, manifests, indexes
-- `docs/` â corpus methodology and notes
+- `corpus/raw/` вЂ” untouched collected materials
+- `corpus/processed/` вЂ” cleaned or normalized materials
+- `metadata/` вЂ” source maps, manifests, indexes
+- `docs/` вЂ” corpus methodology and notes
 
 ## Initial thematic map
 
@@ -41,7 +41,7 @@ See `LICENSE`.
 
 
 ---
-## 🌍 FMP Ecosystem Links
+## ? FMP Ecosystem Links
 | Repo | Layer | Role |
 |---|---|---|
 | [FMP-CENTRAL-REPO](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO) | L7 | Core Hub |
