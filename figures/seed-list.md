@@ -1,4 +1,4 @@
-# Figures — Seed List
+# Figures вЂ” Seed List
 
 - Tomyris
 - Roxana / Rukhsana layer
