@@ -8,10 +8,10 @@ This repository stores the deeper corpus behind the public-facing project: raw s
 
 ## Structure
 
-- `corpus/raw/` â untouched collected materials
-- `corpus/processed/` â cleaned or normalized materials
-- `metadata/` â source maps, manifests, indexes
-- `docs/` â corpus methodology and notes
+- `corpus/raw/` — untouched collected materials
+- `corpus/processed/` — cleaned or normalized materials
+- `metadata/` — source maps, manifests, indexes
+- `docs/` — corpus methodology and notes
 
 ## Initial thematic map
 
