@@ -1,7 +1,19 @@
 cff-version: 1.2.0
 title: Women Made Central Asia Corpus
-message: "If you use this repository, please cite it."
+message: "If you use or quote this human-facing corpus branch, please cite it as below."
+type: dataset
 authors:
   - family-names: Abdukarimov
     given-names: Abdurashid
     orcid: https://orcid.org/0009-0000-6394-4912
+    affiliation: "Fractal Metascience Foundation, Tashkent"
+repository-code: "https://github.com/Secret-Uzbek/women-made-central-asia-corpus"
+abstract: "Human-facing corpus branch behind Women Made Central Asia, focused on source maps, metadata, archival traces, and structured evidence."
+keywords:
+  - women
+  - central-asia
+  - corpus
+  - fractal-metascience
+  - archive
+license: CC0-1.0
+version: "1.0.0"
