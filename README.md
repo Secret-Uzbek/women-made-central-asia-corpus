@@ -10,9 +10,7 @@
 [![Central Hub](https://img.shields.io/badge/Central-FMP--CENTRAL--REPO-blue)](https://github.com/Secret-Uzbek/FMP-CENTRAL-REPO)
 [![Legal](https://img.shields.io/badge/Legal-terra--legal-0f6b57)](https://github.com/AIUZ-Terra-Codex-EcoSystem/terra-legal)
 
-> Human-facing corpus branch behind Women Made Central Asia: source maps,
-> structured evidence, metadata, archival traces, and branch-level research
-> materials.
+> Human-facing corpus branch behind Women Made Central Asia: source maps, structured evidence, metadata, archival traces, and branch-level research materials.
 
 ## Layer role
 
@@ -23,7 +21,8 @@ It should hold:
 - deeper source maps behind the public-facing project;
 - structured archival and metadata layers;
 - bibliography scaffolding and import-ready evidence structures;
-- branch-level release, citation, and audit surfaces.
+- branch-level release, citation, and audit surfaces;
+- raw and processed source materials with clear provenance.
 
 It should not become:
 
@@ -34,10 +33,10 @@ It should not become:
 
 ## Structure
 
-- `corpus/raw/` ГўВЂВ” untouched collected materials
-- `corpus/processed/` ГўВЂВ” cleaned or normalized materials
-- `metadata/` ГўВЂВ” source maps, manifests, indexes
-- `docs/` ГўВЂВ” corpus methodology and notes
+- `corpus/raw/` — untouched collected materials
+- `corpus/processed/` — cleaned or normalized materials
+- `metadata/` — source maps, manifests, indexes
+- `docs/` — corpus methodology and notes
 
 ## Initial thematic map
 
@@ -51,10 +50,11 @@ It should not become:
 
 ## Corpus rules
 
-- Preserve provenance
-- Do not overwrite raw materials silently
-- Keep machine-friendly metadata separate from narrative notes
-- Public claims should be backed by traceable corpus records
+- Preserve provenance.
+- Do not overwrite raw materials silently.
+- Keep machine-friendly metadata separate from narrative notes.
+- Public claims should be backed by traceable corpus records.
+- Do not say a file was read unless its reading status is registered.
 
 ## Rule for AI and automated assistants
 
@@ -70,6 +70,15 @@ Only if something is genuinely absent from the repository corpus may AI propose 
 4. `docs/`
 5. `corpus/raw/`
 6. `corpus/processed/`
+
+## Raw upload path
+
+Upload new source files first to:
+
+`corpus/raw/_UPLOADS/`
+
+After upload, each file must be registered in the metadata layer.
+
 ## License
 
 See `LICENSE`.
