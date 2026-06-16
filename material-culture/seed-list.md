@@ -1,4 +1,4 @@
-# Material Culture вЂ” Seed List
+# Material Culture — Seed List
 
 - textiles
 - jewelry and adornment

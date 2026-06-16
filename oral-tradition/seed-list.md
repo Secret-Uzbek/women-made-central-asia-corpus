@@ -1,4 +1,4 @@
-# Oral Tradition вЂ” Seed List
+# Oral Tradition — Seed List
 
 - lullabies
 - wedding songs and ritual speech

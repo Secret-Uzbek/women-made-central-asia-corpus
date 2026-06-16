@@ -1,4 +1,4 @@
-# Religion and Symbolism вЂ” Seed List
+# Religion and Symbolism — Seed List
 
 - pre-Islamic sacred worlds
 - Buddhist layers
